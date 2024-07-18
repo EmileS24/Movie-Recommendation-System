@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-Built a cool movie recommender using sckikit-learn
+Built a cool Movie Recommendation System using scikit-learn, nltk, pandas
